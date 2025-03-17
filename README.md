@@ -1,1 +1,1 @@
-CHIRAG
+![What an incredible year 2024 has been—full of creativity, growth, and an abundance of love, all because of YOU    As we look back, here are some of the posts that really stood out to me  Which one resonated with y](https://github.com/user-attachments/assets/0b726194-ab7f-436a-9c2e-85cd6467c91a)
