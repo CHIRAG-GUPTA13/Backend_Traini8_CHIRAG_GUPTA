@@ -20,11 +20,13 @@ Before you begin, ensure you have the following installed:
    git clone [https://github.com/CHIRAG-GUPTA13/Backend_Traini8_CHIRAG_GUPTA.git](https://www.google.com/search?q=https://github.com/CHIRAG-GUPTA13/Backend_Traini8_CHIRAG_GUPTA.git)
    cd Backend_Traini8_CHIRAG_GUPTA
 Update the application.properties or application.yml file in src/main/resources with your database connection details:
-spring.datasource.url=jdbc:mysql://localhost:3306/[YOUR_DATABASE_NAME]
-spring.datasource.username=[YOUR_DATABASE_USERNAME]
-spring.datasource.password=[YOUR_DATABASE_PASSWORD]
-spring.jpa.hibernate.ddl-auto=update # Or create/validate as needed
 
+       ```properties
+       spring.datasource.url=jdbc:mysql://localhost:3306/[YOUR_DATABASE_NAME]
+       spring.datasource.username=[YOUR_DATABASE_USERNAME]
+       spring.datasource.password=[YOUR_DATABASE_PASSWORD]
+       spring.jpa.hibernate.ddl-auto=update # Or create/validate as needed
+       ```
 Build the Project:
 mvn clean install
 
